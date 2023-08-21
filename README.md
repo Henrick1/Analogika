@@ -1,1 +1,1 @@
-# Kalinka-Studios-1-game
+# The first game of Kalinka Studios
